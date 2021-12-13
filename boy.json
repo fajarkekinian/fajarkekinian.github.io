@@ -12,11 +12,11 @@
       "interval_intertitial": 1,
       "initialize_sdk":"204172822",
       "initialize_sdk_backup_ads":"204172822",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "gold",
+      "high_paying_keyword_2": "bank",
+      "high_paying_keyword_3": "forex",
+      "high_paying_keyword_4": "crypto",
+      "high_paying_keyword_5": "bitcoin",
       "status_app": "0",
       "link_redirect": "https://"
     }
